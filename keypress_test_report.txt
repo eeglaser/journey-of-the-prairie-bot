@@ -1,0 +1,11 @@
+- Pressing individual keys:
+In Journey of the Prairie King, appears to work.
+In a Notepad window, the program must sleep for 0.01ish seconds to work consistently.
+
+- Holding down keys be repeatedly calling process_input:
+In Journey of the Prairie King, appears to work.
+In a Notepad window, holding down keys appears to only generate 1 character regardless of held time.
+
+- Holding down keys using time.sleep:
+In Journey of the Prairie King, appears to work.
+In a Notepad window, holding down keys appears to only generate 1 character regardless of held time.
